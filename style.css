@@ -1,0 +1,50 @@
+/* .d-flex{
+  width: 174px;
+  height: 700px;
+} */
+
+
+@media screen and (max-width: 700px) {
+  .d-flex {
+    display: none !important;
+  }
+}
+
+/* Skills Card's hover */
+#card1:hover{
+  background-color: aqua;
+}
+#card2:hover{
+  background-color: rosybrown;
+}
+#card3:hover{
+  background-color: royalblue;
+}
+#card4:hover{
+  background-color: lightyellow;
+}
+#card5:hover{
+  background-color: lightblue;
+}
+#card6:hover{
+  background-color: bisque;
+}
+#card7:hover{
+  background-color: lightgreen;
+}
+#card8:hover{
+  background-color: pink;
+}
+#card9:hover{
+  background-color: lightseagreen;
+}
+#card10:hover{
+  background-color: burlywood;
+}
+#card11:hover{
+  background-color: darkorange;
+}
+
+#ml:visited{
+  color: red;
+}
